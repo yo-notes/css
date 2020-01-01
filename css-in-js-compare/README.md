@@ -5,7 +5,7 @@
 * react-jss
 
 
-对比:
+对比（具体代码见 src 下几个组件）:
 
 ![](performance.png)
 
